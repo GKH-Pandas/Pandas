@@ -1,0 +1,8 @@
+     SName  YHigh  YLow  Average  Growth(%)  PeakDays  PriceDiff
+2  AEMELUS   0.65  0.12    0.385        441       106       0.53
+5   ARMADA   0.54  0.12    0.330        350        84       0.42
+6   SALUTE   0.98  0.22    0.600        345       152       0.76
+3   PTRANS   0.42  0.12    0.270        250        60       0.30
+1       TM   5.22  2.12    3.670        146       311       3.10
+4   SAPNRG   0.40  0.22    0.310         81        36       0.18
+0  Maybank  12.14  7.28    9.710         66       487       4.86
